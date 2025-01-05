@@ -11,12 +11,12 @@ body{
 header{
     max-width:auto;
     width:auto;
-    height:40px;
+    height:10rem;
     background-color: #ec528d;
     font-family: 'Times New Roman', Times, serif;
     color: #000;
     font-size: 1rem;
-    font-weight: 300;
+    font-weight: 300px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -35,9 +35,9 @@ img.logo{
     justify-content:space-between;
     align-items: right;
     gap:1rem;
-    width:40px;
-    height:40px;
-    border-radius: 2rem;
+    width:2rem;
+    height:2rem;
+    border-radius: 0.5rem;
     border-color: #000;
     max-width:max-content;
 
@@ -49,9 +49,9 @@ div.menu{
     justify-content: space-between;
     align-items: center;
     gap:2rem;
-    padding:10px;
-    width: 50px;
-    height: 50px;
+    padding:2rem;
+    width: 10rem;
+    height: 2.5rem;
     max-width: max-content;
     border-radius: 1rem;
     border-color: #000;
@@ -63,8 +63,8 @@ img.linkedin{
     align-items:left;
     gap:1rem;
     max-width:max-content;
-    width:40px;
-    height:40px;
+    width:2rem;
+    height:2rem;
     border-color: #ffffff;
 }
 main{
@@ -90,8 +90,8 @@ h1{
     justify-content:space-around;
     align-items: normal;
     font-weight:300px;
-    width:1350px;
-    height:300px;
+    width:100rem;
+    height:50rem;
     padding: 2rem;
     max-width: max-content;
 
@@ -119,8 +119,8 @@ img.perfil{
     align-items:center;
     gap:2rem;
     max-width:max-content;
-    width:100px;
-    height:100px;
+    width:2.5rem;
+    height:2.5rem;
     border-radius: 1rem;
     border-color:#000;
     filter:sepia(1.5rem);
@@ -132,8 +132,8 @@ img.perfil{
 background-color: #eed2f1;
 font-family:Arial, Helvetica, sans-serif;
 color: hsl(0, 0%, 0%);
-font-size: 20px;
-font-weight: 200;
+font-size: 2rem;
+font-weight: 200px;
 text-transform: uppercase;
 border-radius: 0.5rem;
 }
@@ -158,8 +158,8 @@ section.linguagens{
     justify-content: space-between;
     align-items: center;
     color:#000;
-    width:1120px;
-    height:300px;
+    width:auto;
+    height:auto;
     max-width: max-content;
     border-radius: 1rem;
     text-decoration: none;
