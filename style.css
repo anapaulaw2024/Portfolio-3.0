@@ -39,7 +39,7 @@ img.logo{
     max-width:max-content;
 
 }
-div.menu{
+header div.menu{
     display: flex;
     flex-direction: column;
     font-family: Arial, sans-serif;
