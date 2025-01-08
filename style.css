@@ -41,7 +41,7 @@ img.logo{
 }
 div.menu{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     font-family: Arial, sans-serif;
     font-size:2rem;
     color: #fff;
