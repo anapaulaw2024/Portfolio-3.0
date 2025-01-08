@@ -42,14 +42,16 @@ img.logo{
 div.menu{
     display: flex;
     flex-direction: row;
-    color: #000;
+    font-family: Arial, sans-serif;
+    font-size:2rem;
+    color: #fff;
     justify-content: space-between;
     align-items: center;
+    text-align: center;
     gap:2rem;
     padding:2rem;
-    width: 10rem;
-    height: 2.5rem;
-    max-width: max-content;
+    width: 1000rem;
+    height: 5rem;
     border-radius: 1rem;
     border-color: #000;
 }
