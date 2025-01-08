@@ -16,16 +16,13 @@ header{
     font-family: 'Times New Roman', Times, serif;
     color: #000;
     font-size: 1rem;
-    font-weight: 300px;
+    font-weight: 2rem;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    text-shadow: 
-    0 0 7px #000,
-    0 0 10px #000,
-    0 0 42px #ec528d;
-
+    gap: 2rem;
+    padding:2rem;
     
 
 }
@@ -34,7 +31,7 @@ img.logo{
     flex-direction:row;
     justify-content:space-between;
     align-items: right;
-    gap:1rem;
+    gap:2rem;
     width:2rem;
     height:2rem;
     border-radius: 0.5rem;
@@ -58,7 +55,7 @@ div.menu{
 }
 img.linkedin{
     display: flex;
-    flex-direction:column;
+    flex-direction:row;
     justify-content:space-between;
     align-items:left;
     gap:1rem;
@@ -121,7 +118,7 @@ img.perfil{
     max-width:max-content;
     width:2.5rem;
     height:2.5rem;
-    border-radius: 1rem;
+    border-radius: 1.5rem;
     border-color:#000;
     filter:sepia(1.5rem);
     border-style:groove;
